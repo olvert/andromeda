@@ -1,8 +1,3 @@
-# testel
-
-> My grand app
-
-
 ## Dev
 
 ```
